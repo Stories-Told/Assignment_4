@@ -1,0 +1,11 @@
+Daryl Dixon 89 95 90 99
+Rick Grimes 92 96 85 100
+Glenn Rhee 94 99 97 100
+Maggie Greene 85 82 94 96
+Carl Grimes 75 84 92 89
+Carol Peletier 84 91 89 95
+Beth Greene 75 82 89 87
+Sasha Williams 79 84 90 92
+Tara Chambler 81 74 95 88
+Rosita Espinosa 88 90 93 91
+Eugene Porter 96 98 100 95
